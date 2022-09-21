@@ -1,0 +1,51 @@
+.choose{
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .app-title{
+    font-size: 70px;
+    font-family:  'Times New Roman', Times, serif;
+    text-align: center;
+    color: black;
+  }
+  .button{
+    background-color: rgb(252, 252, 252);
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 22px;
+    font-size: medium;
+    font-weight: bold;
+
+  }
+  .input{
+    background-color: rgb(252, 252, 252);
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 22px;
+    font-size: medium;
+    font-weight: bold;
+  }
+  .my-table{
+    padding:2px;
+  }
+  body {
+    background-image: url("Access-medicines-COVID-19_1200x800px.jpg");
+    height: 100%;
+    width: 100%;
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+   }
